@@ -6,16 +6,16 @@ title: Duvindu Piyasena
 description: My personal website
 
 # Your name to show in the footer
-author: Some Person
+author: Duvindu Piyasena
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
